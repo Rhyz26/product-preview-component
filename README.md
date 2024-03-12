@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/Rhyz26/product-preview-component.git)
+- Live Site URL: [Live site URL](https://product-preview-component-rho.vercel.app/)
 
 ## My process
 I first filled in the HTML part, then i followed the CSS part on the desktop appearance, then i also included media queries for the appearance on a smaller screen 
